@@ -63,6 +63,8 @@ void Print(ll n){printf("%I64d ", n);}
 
 //D:\>attrib +h +s +r "jan's pic"
 //D:\>attrib -h -s -r "jan's pic"
+//attrib +h +s +r Video
+
 
 #define coding ios::sync_with_stdio(false);
 #define Unique(c) (c).resize(unique(all(c))-(c).begin())
